@@ -1,0 +1,11 @@
+org: system
+spaces:
+- system
+- notifications-with-ui
+- autoscaling
+- nfs
+- smb
+- pivotal-services
+- healthwatch2
+- app-metrics-v2
+enable-delete-spaces: true
