@@ -1,5 +1,5 @@
-org: sandbox
-space: test
+org: development
+space: app1
 space-developer:
   ldap_users: []
   users:

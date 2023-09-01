@@ -1,4 +1,4 @@
-org: sandbox
+org: development
 spaces:
 - app1
 enable-delete-spaces: true
