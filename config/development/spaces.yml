@@ -1,5 +1,4 @@
 org: sandbox
 spaces:
-- test
-- test2
+- app1
 enable-delete-spaces: true
