@@ -1,6 +1,7 @@
 orgs:
 - system
 - sandbox
+- development
 enable-delete-orgs: false
 protected_orgs:
 - ^system$

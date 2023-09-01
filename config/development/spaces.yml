@@ -1,0 +1,5 @@
+org: sandbox
+spaces:
+- test
+- test2
+enable-delete-spaces: true
